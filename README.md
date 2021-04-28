@@ -18,7 +18,7 @@ In this project, I learned a bit of the econometric modelling practice (especial
 
 ## Repository description
  - modele - folder with fitted models for different stations as html reports - easy to work with when report writing
- - Kuzma_Odziemczyk_minimodel_1.pdf - project report (I encourage you to check it, personally I like it)
+ - Kuzma_Odziemczyk_minimodel_1.pdf - project report (I encourage you to read it, I like it)
  - Wczytywanie_danych.ipynb - Python notebook with data loading and saving (we've got lots of csv files)
  - data_cleaning_modelling_final.ipynb - PYthon notebook with data analysis and OLS modelling 
  - dane_pogodowe.csv - results of Wczytywanie_danych.ipynb 
