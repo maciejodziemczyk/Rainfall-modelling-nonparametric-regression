@@ -36,4 +36,4 @@ In this project, I learned a bit of the econometric modelling practice (especial
  
  ## Note
  We used R to nonparametric regression due to lack of such package for Python<br>
- We had a different opinion from Rahmatullah et. al. about this task our conclusions was different too
+ We had a different opinion from Rahmatullah et. al. about this task our conclusions was different too<br>
