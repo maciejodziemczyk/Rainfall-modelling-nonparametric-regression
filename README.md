@@ -37,3 +37,4 @@ In this project, I learned a bit of the econometric modelling practice (especial
  ## Note
  We used R to nonparametric regression due to lack of such package for Python<br>
  We had a different opinion from Rahmatullah et. al. about this task our conclusions was different too<br>
+ Our codes are not so clear due to of lack of time (lots of projects during the 3rd semester) and we just wanted to compute things, reports was our graded assignment. 
