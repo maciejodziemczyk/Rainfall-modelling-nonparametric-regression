@@ -31,7 +31,7 @@ In this project, I learned a bit of the econometric modelling practice (especial
  - LaTeX (report writing)
  
  ## Authors
- Bartek Kuźma
+ Bartłomiej Kuźma [(GitHub)](https://github.com/bartekkuzma?fbclid=IwAR3ECTUCuv44NIAUiOLB8H-LDyHMCyUPCQr86Z4KgH2-iaOHVSz6uatXZQY)
  Maciej Odziemczyk
  
  ## Note
